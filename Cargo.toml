@@ -2,5 +2,12 @@
 name = "tasks"
 version = "0.1.0"
 authors = ["Gurinder Singh <frederick.the.fool@gmail.com>"]
+description = "A task parallel library in Rust similar to TPL in C#"
+documentation = "https://github.com/gurry/tasks"
+homepage = "https://github.com/gurry/tasks"
+repository = "https://github.com/gurry/tasks"
+readme = "README.md"
+keywords = ["tasks", "async", "tpl", "futures", "concurrency"]
+categories = ["concurrency", "asynchronous"]
 
 [dependencies]
