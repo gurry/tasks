@@ -9,5 +9,6 @@ repository = "https://github.com/gurry/tasks"
 readme = "README.md"
 keywords = ["tasks", "async", "tpl", "futures", "concurrency"]
 categories = ["concurrency", "asynchronous"]
+license = "MIT"
 
 [dependencies]
